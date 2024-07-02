@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 php:7.1-fpm
 golang
+confluentinc/cp-kafka
